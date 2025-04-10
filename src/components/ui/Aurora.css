@@ -1,0 +1,14 @@
+html, body {
+  height: 40%;
+  width: 100%;
+}
+
+.aurora-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw; /* Full width of the viewport */
+  height: 30vh;
+   /* Reduced height of the container */
+  z-index: 0;
+}
