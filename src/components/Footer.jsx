@@ -168,41 +168,6 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <p className="font-semibold tracking-wide ">Cherry</p>
-            <ul className="mt-2 space-y-2">
-              <li>
-                <a
-                  href="/"
-                  className=" transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Info
-                </a>
-              </li>
-              <li>
-                <a
-                  href="/"
-                  className=" transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Personal
-                </a>
-              </li>
-              <li>
-                <a
-                  href="/"
-                  className=" transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Wiki
-                </a>
-              </li>
-              <li>
-                <a
-                  href="/"
-                  className=" transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Forum
-                </a>
-              </li>
-            </ul>
           </div>
         </div>
       </div>
