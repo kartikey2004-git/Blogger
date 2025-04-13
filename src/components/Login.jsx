@@ -30,7 +30,7 @@ export default function SignupForm() {
   return (
     <div>
       <Aurora
-        colorStops={["#3A29FF", "#FF94B4", "#FF3232"]}
+        colorStops={["#A4FF00", "#65E6FF", "#00FF80", "#FF00A8"]}
         blend={0.5}
         amplitude={1.0}
         speed={0.5}

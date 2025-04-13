@@ -54,8 +54,9 @@ function Header() {
                 item.active && (
                   <li key={item.name}>
                     <Button
-                      variant="outline"
+                      variant="ghost"
                       onClick={() => navigate(item.slug)}
+                      className="text-white/90 backdrop-blur-md bg-white/10 hover:bg-white/20 hover:text-white font-medium px-5 py-2 rounded-xl transition-all duration-300 shadow-md"
                     >
                       {item.name}
                     </Button>
